@@ -2,11 +2,15 @@
 
 **I'm Adrienn, Full Stack Web Developer**
 
+🔭 I’m currently working on new features for my latest project called Book Diary.
+
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 
 ### Languages and Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,pinia,python,nodejs,ts,postgres,vite,vitest,jest,git,docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,tailwind,react,vue,pinia,python,nodejs,ts,postgres,vite,vitest,jest,git,docker,nextjs)](https://skillicons.dev)
+
+![Adrienn's GitHub stats](https://github-readme-stats.vercel.app/api?username=x-adri-x&show_icons=true&theme=radical)
 
 <!--
 **x-adri-x/x-adri-x** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
