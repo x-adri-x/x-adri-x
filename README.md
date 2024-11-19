@@ -3,6 +3,9 @@
 **I'm Adrienn, Full Stack Web Developer**
 
 🔭 I’m currently working on new features for my latest project called Book Diary.
+🦖 Former Test Automation Engineer, fulfilling my dream of creating amazing websites.
+🛵 Always ready to learn new things and deepen my knowledge.
+⚡ Fun fact: love creating fun apps that make my life easier
 
 <img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/7d484dc9-68a9-4ee6-a767-aea59035c12d" width="500">
 
